@@ -1,0 +1,12 @@
+body {
+	background-color: orange;
+}
+
+.center {
+	background-color:lightblue;
+	margin: auto;
+	width: 50%;
+	border: 1px solid black;
+	padding: 100px 0;
+	text-align: center; 
+}
